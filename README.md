@@ -14,7 +14,7 @@ python3 admin_finder.py
 ```
 
 ## Video Tutorial
-
+![Admin Finder](https://uupload.ir/files/74v7_untitled-project.gif)
 
 ## Contact us
 - Telegram Channel : [@Hamiyan_Haj_Qassem](https://t.me/Hamiyan_Haj_Qassem)
