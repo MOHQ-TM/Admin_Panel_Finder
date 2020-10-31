@@ -2,10 +2,11 @@
 A tool to find the admin panel.
 
 ## Install and run
-bash
+```bash
 git clone https://github.com/MOHQ-TM/APF
 cd APF
 python3 admin_f.py
+```
 
 ## Video Tutorial
 
