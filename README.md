@@ -8,9 +8,9 @@ A tool to find the admin panel.
 
 ## Install and run
 ```bash
-git clone https://github.com/MOHQ-TM/APF
-cd APF
-python3 admin_f.py
+git clone https://github.com/MOHQ-TM/Admin_Panel_Finder.git
+cd Admin_Panel_Finder
+python3 admin_finder.py
 ```
 
 ## Video Tutorial
