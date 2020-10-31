@@ -3,8 +3,8 @@ A tool to find the admin panel.
 
 ## Admin Panel Finder
 + A tool to find the admin panel of sites.
-+ Written by Python.
-+ have more than 1300 panel
++ Written by Python3.
++ have more than 1300 panel.
 
 ## Install and run
 ```bash
