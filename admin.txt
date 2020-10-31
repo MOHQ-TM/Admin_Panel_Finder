@@ -116,6 +116,7 @@ admin/admin.cfm
 admin/admin.htm
 admin/admin.html
 admin/admin.js
+admin-panel
 admin/admin-login.asp
 admin/admin_login.asp
 admin/adminLogin.asp
@@ -858,6 +859,7 @@ moderator/login.html
 moderator/login.js
 moderator/login.php
 moderator.php
+modir/
 modiriat/
 modiriat/admin.asp
 modiriat/admin.aspx
