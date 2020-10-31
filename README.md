@@ -1,6 +1,10 @@
 # MOHQ Security Team
 A tool to find the admin panel.
 
+## Admin Panel Finder
+A tool to find the admin panel of sites.
+Written by Python.
+
 ## Install and run
 ```bash
 git clone https://github.com/MOHQ-TM/APF
