@@ -10,6 +10,8 @@ A tool to find the admin panel.
 ```bash
 git clone https://github.com/MOHQ-TM/Admin_Panel_Finder.git
 cd Admin_Panel_Finder
+chmod +x install.sh
+./install.sh
 python3 admin_finder.py
 ```
 
