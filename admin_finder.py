@@ -26,7 +26,6 @@ def __start__():
     print(color.GREEN + '                            ************************************')
     print('                            ** Telegram : @Hamiyan_Haj_Qassem **')
     print('                            **     Email : mohq@gmail.com     **')
-    print('                            **      Developer : PDHNMSN       **')
     print('                            ************************************')
 
 
