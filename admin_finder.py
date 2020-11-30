@@ -46,7 +46,7 @@ def __start__():
         
     else :
     
-        url = ("http://" + url + "/")
+        url = ("https://" + url + "/")
 
 
 
