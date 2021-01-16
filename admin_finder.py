@@ -24,10 +24,10 @@ try:
 	print('██║ ╚═╝ ██║╚██████╔╝██║  ██║╚██████╔╝       ██║   ██║ ╚═╝ ██║')
 	print('╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚══▀▀═╝        ╚═╝   ╚═╝     ╚═╝')
 	print(color.GREEN + '                            ************************************')
-	print('                            ** Telegram : @MOHQ_Team **')
+	print('                            ** Telegram : @MOHQ_Team          **')
 	print('                            **     Email : mohq@gmail.com     **')
 	print('                            ************************************')
-	print('ctrl+c for exit!')
+	print('ctrl+c for exit!\n')
 
 
 	#url
