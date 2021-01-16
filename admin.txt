@@ -9,6 +9,7 @@
 aaa.asp
 aaa.aspx
 aaa.php
+admin/
 aadmin/
 abc/
 acceso.asp
