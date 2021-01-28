@@ -19,6 +19,7 @@ python3 admin_finder.py
 [How to use Admin Finder](https://uupload.ir/files/74v7_untitled-project.gif)
 
 ## Contact us
-- Telegram Channel : [@Hamiyan_Haj_Qassem](https://t.me/Hamiyan_Haj_Qassem)
+- Telegram Channel : [@MOHQ_Team](https://t.me/MOHQ_Team)
 - Gmail : [mohq.team@gmail.com](mailto:mohq.team@gmail.com)
 - Github : [MOHQ-TM](https://github.com/MOHQ-TM)
+- Instagram : [MOHQ_Team](https://instagram.com/mohq_team)
